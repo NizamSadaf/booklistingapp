@@ -1,0 +1,32 @@
+.container h1:hover
+{
+    background-image: linear-gradient(to right, rgb(49, 49, 94),rgb(118, 118, 155));
+    transition: 5s;
+    
+}
+.container h1
+{
+    color:#fff;
+}
+.container .display
+{
+    width:100%;
+}
+.body
+{
+    background-color: blueviolet;
+}
+.container label{
+    color:#fff;
+}
+form .btn-primary 
+{
+    background-image: linear-gradient(to right, rgb(49, 49, 94),rgb(118, 118, 155));
+    box-shadow:none !important;
+    border:none;
+    text-decoration: none;
+}
+#book-list
+{
+    color:#fff;
+}
